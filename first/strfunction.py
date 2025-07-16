@@ -1,0 +1,11 @@
+name="bibek"
+print(len(name))
+print(name.endswith("ek"))
+print(name.startswith("Bi"))
+print(name.capitalize())
+print(name.upper())
+print(name.lower())
+print(name.find("e"))
+print(name.replace("e","k"))
+print(name.isdigit())
+print(name.count("b"))

@@ -1,0 +1,7 @@
+a=(69,'ghimire','bibek',45,69,'majuwa')
+print(a)
+count=a.count(69)
+print(count)
+print(a.index('bibek'))
+print(len(a))
+print('majuwa' in a)
